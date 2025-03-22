@@ -1,0 +1,18 @@
+# Virtual environments
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS stuff
+.DS_Store
+
+# Streamlit state
+.streamlit/
+
+.env
+
+cyber-sierra-assignment/
+
